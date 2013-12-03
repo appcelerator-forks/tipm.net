@@ -1,0 +1,17 @@
+{
+  "name": "net",
+  "repo": "tipm/net",
+  "description": "Node.js Style net module",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
